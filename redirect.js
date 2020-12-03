@@ -1,1 +1,1 @@
-window.location.href = "http://www.w3schools.com";
+window.open("http://www.w3schools.com");
