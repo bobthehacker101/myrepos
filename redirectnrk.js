@@ -1,1 +1,1 @@
-document.location = "https://www.nrk.no/";
+document.location("https://www.nrk.no/);
